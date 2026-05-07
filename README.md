@@ -1,17 +1,31 @@
+<!--  ═══════════════════════════════════════════════════════════════
+      GURNOOR SINGH — GitHub Profile README
+      Username : gurnoorsingh13
+      Repo     : gurnoorsingh13/gurnoorsingh13
+      ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0c1a35,100:0d1117&height=240&section=header&text=Gurnoor%20Singh&fontSize=60&fontColor=e2e8f0&animation=fadeIn&fontAlignY=45&desc=AI%20%26%20Robotics%20Engineer%20·%20Builder%20·%20Mentor&descSize=17&descAlignY=65&descFontColor=22d3ee" width="100%"/>
+<!-- ── HEADER ─────────────────────────────────────────────────── -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0c1e3c,100:0d1117&height=260&section=header&text=Gurnoor%20Singh&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=44&desc=AI%20%26%20Robotics%20Engineer%20·%20Builder%20·%20Mentor%20·%20Founder&descSize=17&descAlignY=64&descFontColor=22d3ee"
+  width="100%"
+  alt="Gurnoor Singh"
+/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=19&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&lines=Integrated+M.Tech+in+AI+%26+Robotics+·+GNDU+Amritsar;Interned+at+IIT+Mandi+%26+IIIT+Allahabad+·+Year+One;Mentoring+100%2B+students+across+platforms;Building+a+Startup+%F0%9F%A4%AB+·+Stay+tuned.)](https://git.io/typing-svg)
+<!-- ── ANIMATED TYPING ─────────────────────────────────────────── -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=680&lines=%F0%9F%8E%93+Integrated+M.Tech+·+AI+%26+Robotics+·+GNDU+Amritsar;%F0%9F%8F%9B%EF%B8%8F+IIT+Mandi+CAIR+Lab+·+IIIT+Allahabad+·+Year+One;%F0%9F%A6%81+Lion+by+Name.+Light+by+Nature.;%F0%9F%91%A5+Mentoring+100%2B+Students+Across+Platforms;%F0%9F%9A%80+Startup+Founder+·+Something+Big+is+Loading...;%F0%9F%A4%96+Building+Robots+That+Think%2C+Move+%26+Inspire)](https://github.com/gurnoorsingh13)
 
 <br/>
 
-<img src="https://img.shields.io/badge/Batch-2024–2029-22d3ee?style=flat-square&labelColor=0d1117&color=0c1a35&logoColor=22d3ee"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-22d3ee?style=flat-square&labelColor=0d1117&color=0c1a35"/>
-<img src="https://img.shields.io/badge/Based%20in-Amritsar%2C%20India-22d3ee?style=flat-square&labelColor=0d1117&color=0c1a35"/>
-<img src="https://komarev.com/ghpvc/?username=gurnoorsingh13&label=Profile+Visits&color=0c1a35&labelColor=0d1117&style=flat-square"/>
+<!-- ── STATUS PILLS ─────────────────────────────────────────────── -->
+![Batch](https://img.shields.io/badge/Batch-2024–2029-0c1e3c?style=flat-square&labelColor=0d1117)
+![Location](https://img.shields.io/badge/📍-Amritsar%2C%20India-0c1e3c?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-22d3ee?style=flat-square&labelColor=0c1e3c&color=0c1e3c)
+![Views](https://komarev.com/ghpvc/?username=gurnoorsingh13&label=Profile+Views&color=0c1e3c&labelColor=0d1117&style=flat-square)
+[![Follow](https://img.shields.io/github/followers/gurnoorsingh13?label=Follow&style=flat-square&color=0c1e3c&labelColor=0d1117)](https://github.com/gurnoorsingh13)
 
 </div>
 
@@ -21,37 +35,39 @@
 
 ### About
 
-I'm a first-year student in a five-year integrated AI & Robotics program at **Guru Nanak Dev University, Amritsar** — and I didn't wait for Year 3 to start building.
+I'm a first-year student in a **five-year Integrated M.Tech in AI & Robotics** at Guru Nanak Dev University, Amritsar — and I didn't wait for Year 3 to start.
 
-I've interned at **IIT Mandi's CAIR Lab** (the first first-year student ever selected), trained at **IIIT Allahabad**, mentored **100+ students** across platforms, led a government-backed innovation lab, and I'm currently building a **startup** in stealth.
+In Year One, I interned at **IIT Mandi's CAIR Lab** (as the first-ever first-year student selected), trained at **IIIT Allahabad**, built **7 real-world AI & Robotics projects**, earned a Letter of Excellence, mentored **100+ students**, led a NITI Aayog innovation lab, and represented the **Government of Punjab** as a Campus Ambassador. I'm also quietly building a **startup** — more on that soon.
 
-> *Gurnoor = Light of the Guru. Singh = Lion. I build systems that think, move, and inspire.*
+> *Gurnoor = Light of the Guru · Singh = Lion · I build systems that think, move, and inspire.*
 
 ---
 
-### What I'm Working On
+### Now
 
-- 🤖 &nbsp; Advancing skills in **ROS2, SLAM, and autonomous systems**
-- 🧠 &nbsp; Deep-diving into **Neural Networks, Transformers & Computer Vision**
-- 🚀 &nbsp; Developing a **Startup** — undisclosed, launching soon
-- 🎓 &nbsp; Certifying in **Aerial Robotics** (University of Pennsylvania, Coursera)
-- 👥 &nbsp; Mentoring **100+ students** in Robotics, AI, and STEM innovation
+```yaml
+learning   : [ROS2, Aerial Robotics (UPenn), Deep Learning, Transformers, SolidWorks Pro]
+building   : [Startup — stealth mode 🤫, Open-source robotics tools]
+mentoring  : [100+ students across AI, Robotics, IoT & STEM]
+reading    : [Research papers on Autonomous Systems, Embodied AI, SLAM]
+goal_2025  : Launch startup MVP · Publish on GitHub · Build in public
+```
 
 ---
 
 ### Experience
 
-**AI & Robotics Trainee** &nbsp;·&nbsp; IIIT Allahabad &nbsp;·&nbsp; `Jun – Jul 2025`
-Built and deployed 7 real-world projects spanning ROS2, SLAM, and NLP systems. Received the **Letter of Excellence** for outstanding contribution.
+**🏛️ AI & Robotics Trainee — IIIT Allahabad** &nbsp;`Jun – Jul 2025`
+Built and deployed 7 projects spanning **ROS2, SLAM, and NLP systems**. Presented to mentors and cohort. Awarded the **Letter of Excellence** for outstanding contribution to AIR.2025.
 
-**Firmware & Robotics Intern** &nbsp;·&nbsp; IIT Mandi — CAIR Lab &nbsp;·&nbsp; `Dec 2024 – Jan 2025`
-Adapted ArduCopter firmware for underwater robotics using ArduSub. Optimized embedded systems for stability and control. Became the **first ever first-year student** selected for this lab.
+**🔬 Firmware & Robotics Intern — IIT Mandi, CAIR Lab** &nbsp;`Dec 2024 – Jan 2025`
+Adapted **ArduCopter firmware** for underwater robotics using ArduSub. Optimized embedded control systems, conducted live testing, authored full technical documentation. Historic milestone: the **first-ever first-year student** selected for CAIR Lab.
 
-**Campus Ambassador** &nbsp;·&nbsp; Innovation Mission Punjab, Govt. of Punjab &nbsp;·&nbsp; `2024 – Present`
-Officially selected to drive innovation, entrepreneurship, and tech adoption at the university level.
+**🏛️ Campus Ambassador — Innovation Mission Punjab, Govt. of Punjab** &nbsp;`2024 – Present`
+Officially selected by the Government of Punjab. Driving innovation, entrepreneurship, and technology adoption across the university and beyond.
 
-**President** &nbsp;·&nbsp; ATAL Tinkering Lab — NITI Aayog &nbsp;·&nbsp; `2024 – Present`
-Leading hands-on programs for 100+ students in Robotics, IoT, and STEM. Organizing competitions and mentorship cycles that build real technical depth.
+**🤖 President — ATAL Tinkering Lab, NITI Aayog** &nbsp;`2024 – Present`
+Leading hands-on programs in **Robotics, IoT, and STEM** for 100+ students. Organising competitions, mentorship cycles, and innovation sessions that build genuine technical depth.
 
 ---
 
@@ -66,7 +82,7 @@ Leading hands-on programs for 100+ students in Robotics, IoT, and STEM. Organizi
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=22d3ee)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0d1117?style=for-the-badge&logo=mathworks&logoColor=22d3ee)
 
-**AI · Machine Learning · Computer Vision**
+**AI · ML · Computer Vision**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=22d3ee)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=22d3ee)
@@ -76,6 +92,7 @@ Leading hands-on programs for 100+ students in Robotics, IoT, and STEM. Organizi
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=22d3ee)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=22d3ee)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=22d3ee)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=22d3ee)
 
 **Robotics · Embedded · Firmware**
 
@@ -92,9 +109,10 @@ Leading hands-on programs for 100+ students in Robotics, IoT, and STEM. Organizi
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-0d1117?style=for-the-badge&logo=autodesk&logoColor=22d3ee)
 ![3D Printing](https://img.shields.io/badge/3D%20Printing-0d1117?style=for-the-badge&logo=printables&logoColor=22d3ee)
 
-**Tools · Infrastructure**
+**Tools · DevOps**
 
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=22d3ee)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=22d3ee)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=22d3ee)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=22d3ee)
@@ -106,32 +124,131 @@ Leading hands-on programs for 100+ students in Robotics, IoT, and STEM. Organizi
 
 ### Achievements
 
-🏆 &nbsp; **Letter of Excellence** — IIIT Allahabad, AIR.2025
-🥇 &nbsp; **1st Place** — State-Level Technical Presentation, Prayas · GNDU
+🏆 &nbsp; **Letter of Excellence** — IIIT Allahabad · AIR.2025
+🥇 &nbsp; **1st Place** — State-Level Technical Presentation · Prayas, GNDU
 🥇 &nbsp; **1st Place** — "I Am an Engineer" Technical Skills Competition
-🥇 &nbsp; **School Rank 1 (Boys)** — Class X, ICSE Board
+🥇 &nbsp; **School Rank 1 (Boys)** — Class X · ICSE Board
 🥉 &nbsp; **3rd Place** — State Science Model Exhibition · 70+ competing teams
 🥈 &nbsp; **2nd Place** — Inter-College Debate "Fusion"
-🎖️ &nbsp; **High Commendation** — Youth Parliament, GNDU
 🎖️ &nbsp; **Runner-Up** — Technical Paper Reading Competition
+🎖️ &nbsp; **High Commendation** — Youth Parliament, GNDU
+⭐ &nbsp; **Historic Selection** — First-ever first-year intern at IIT Mandi CAIR Lab
+
+<details>
+<summary><b>📜 Certifications & Workshops &nbsp;(click to expand)</b></summary>
+
+<br/>
+
+**Certifications in Progress**
+
+- 🎓 &nbsp; Data Science, ML, Deep Learning & NLP — *Krish Naik, Udemy*
+- 🎓 &nbsp; Aerial Robotics Specialization — *University of Pennsylvania, Coursera*
+- 🎓 &nbsp; SolidWorks Professional — *Advanced CAD Design*
+- 🎓 &nbsp; C & C++ Programming — *Simplus Institute of Coding* ✅
+
+**Workshops & Conferences**
+
+- 🤝 &nbsp; ROS & Advanced Robotics Workshop — GJCEI Technical Institute
+- 🤝 &nbsp; "AI in Action" Executive Workshop — Surbhi Aggarwal, Co-founder LocoBuzz
+- 🤝 &nbsp; Web3 & Blockchain Technology — StarkNet Developer Program
+- 🤝 &nbsp; ETSSA 2025 Conclave — Emerging Tech in Smart Agriculture, PAU Ludhiana
+- 🤝 &nbsp; IoT Systems Workshop — Engineering Students Forum, GNDU
+- 🤝 &nbsp; Autodesk Fusion 360 Professional — Official 3-Day Certification
+
+</details>
 
 ---
 
-### GitHub Stats
+### GitHub Trophies
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gurnoorsingh13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=1e293b&title_color=22d3ee&icon_color=22d3ee&bg_color=0d1117&text_color=94a3b8&hide_border=false&custom_title=Stats"/>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=gurnoorsingh13&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/gurnoorsingh13)
+
+</div>
+
+---
+
+### Stats
+
+<div align="center">
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=gurnoorsingh13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=0c1e3c&title_color=22d3ee&icon_color=22d3ee&bg_color=0d1117&text_color=94a3b8&custom_title=Gurnoor's%20Stats"
+  alt="GitHub Stats"
+/>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurnoorsingh13&layout=compact&langs_count=6&theme=tokyonight&border_color=1e293b&title_color=22d3ee&bg_color=0d1117&text_color=94a3b8&hide_border=false&custom_title=Top%20Languages"/>
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurnoorsingh13&layout=compact&langs_count=6&theme=tokyonight&border_color=0c1e3c&title_color=22d3ee&bg_color=0d1117&text_color=94a3b8&custom_title=Top%20Languages"
+  alt="Top Languages"
+/>
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gurnoorsingh13&theme=dark&background=0d1117&border=0c1e3c&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideNums=e2e8f0&sideLabels=94a3b8&dates=475569&currStreakNum=22d3ee)](https://github.com/gurnoorsingh13)
 
 </div>
+
+---
+
+### Contribution Graph
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gurnoorsingh13&theme=dark&background=0d1117&border=1e293b&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideNums=94a3b8&sideLabels=94a3b8&dates=475569)](https://github.com/gurnoorsingh13)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gurnoorsingh13&bg_color=0d1117&color=22d3ee&line=22d3ee&point=ffffff&area=true&area_color=0c1e3c&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/gurnoorsingh13)
 
 </div>
+
+---
+
+### Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gurnoorsingh13/gurnoorsingh13/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurnoorsingh13/gurnoorsingh13/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/gurnoorsingh13/gurnoorsingh13/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+> ℹ️ *To activate the snake, add the GitHub Action workflow below to your repo.*
+
+</div>
+
+<details>
+<summary><b>⚙️ Snake Setup — GitHub Action &nbsp;(click to expand)</b></summary>
+
+Create `.github/workflows/snake.yml` in your repo with this content:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: gurnoorsingh13
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
@@ -139,18 +256,23 @@ Leading hands-on programs for 100+ students in Robotics, IoT, and STEM. Organizi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://linkedin.com/in/gurnoorsingh13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee&label=Connect)](https://linkedin.com/in/gurnoorsingh13)
 [![Website](https://img.shields.io/badge/gurnoorsingh.in-0d1117?style=for-the-badge&logo=googlechrome&logoColor=22d3ee)](https://gurnoorsingh.in)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:er.gurnoor-singh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/gurnoorsingh13)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=22d3ee&label=Email)](mailto:er.gurnoor-singh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee&label=Follow)](https://github.com/gurnoorsingh13)
 
 <br/>
 
-*Passionate. Hardworking. Full of gratitude.*
-*Many things yet to be disclosed — one by one.* 👀
+*Passionate. Hardworking. Full of Gratitude.*
+<br/>
+*Many things are yet to be disclosed — one by one.* &nbsp;👀
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0c1a35,100:0d1117&height=120&section=footer&fontColor=22d3ee&animation=fadeIn" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0c1e3c,100:0d1117&height=120&section=footer&animation=fadeIn"
+  width="100%"
+  alt="footer"
+/>
