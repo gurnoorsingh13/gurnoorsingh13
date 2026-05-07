@@ -20,18 +20,6 @@
 
 <br/>
 
-<div align="center">
-
-```
-   ✦  ਗੁਰਨੂਰ ਸਿੰਘ  ✦   Light of the Guru  ✦   Roar of the Lion  ✦
-```
-
-</div>
-
-<br/>
-
----
-
 <br/>
 
 ## `> whoami`
@@ -231,51 +219,6 @@ gurnoor@gndu:~$ cat status.yml
   <img alt="contribution snake" src="https://raw.githubusercontent.com/gurnoorsingh13/gurnoorsingh13/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-</div>
-
-<details>
-<summary><code>⚙️ snake setup — click to expand</code></summary>
-
-<br/>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions tab → Generate Contribution Snake → Run workflow** once manually.
-
-</details>
 
 <br/>
 
