@@ -18,23 +18,6 @@
 
 </div>
 
----
-
-<br/>
-
-<div align="center">
-
-```
-ਗੁਰਨੂਰ ਸਿੰਘ
-```
-
-*Gurnoor — Light of the Guru. Singh — The Lion. Together: a force that illuminates and leads.*
-
-</div>
-
-<br/>
-
----
 
 <br/>
 
@@ -156,10 +139,6 @@ building:
   mode    : stealth
   details : [CLASSIFIED]
   eta     : "one by one 👀"
-
-currently_sharpening:
-  - Aerial Robotics — UPenn (Coursera)
-  - Deep Learning & NLP — advanced track
 
 signal: "Many things yet to be disclosed — one by one."
 ```
