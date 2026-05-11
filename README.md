@@ -227,7 +227,7 @@ gurnoor@gndu:~$ cat status.yml
 </div>
 
 <br/>
-<br/>
+
 
 ---
 
