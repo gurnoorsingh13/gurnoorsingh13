@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 56" width="840" height="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+<text x="0" y="34" fill="#ffb000" font-size="13" font-weight="700" letter-spacing="2">04</text>
+<text x="38" y="34" fill="#f5efe2" font-size="20" font-weight="800" letter-spacing="3">ONBOARD SYSTEMS</text>
+<line x1="277" y1="29" x2="668" y2="29" stroke="#5c4100" stroke-dasharray="2 4"/>
+<text x="840" y="33" fill="#6b665c" font-size="10" letter-spacing="2" text-anchor="end">TOOLS I FLY WITH</text>
+<rect x="682" y="25" width="8" height="8" fill="#ffb000"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.55;1" dur="1.4s" begin="0s" repeatCount="indefinite"/></rect>
+</svg>
